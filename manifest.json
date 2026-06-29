@@ -1,0 +1,13 @@
+{
+  "name": "RISE Calisthenics",
+  "short_name": "RISE",
+  "description": "Dein personalisierter, progressiver 66-Tage Calisthenics-Reset mit adaptiver Schwierigkeit.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0d12",
+  "theme_color": "#0c0d12",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
